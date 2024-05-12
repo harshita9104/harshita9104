@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshita Roonwal</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width ="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-web-developer-7362400-6031665.mp4">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita9104&label=Profile%20views&color=0e75b6&style=flat" alt="harshita9104" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita9104" alt="harshita9104" /></a> </p>
-
+<img align="right" alt="coding" width ="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 - 🔭 I’m currently working on [Job tracking Application](https://github.com/harshita9104/Career-Compass)
 
 - 🌱 I’m currently learning **Devops**
