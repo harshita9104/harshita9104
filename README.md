@@ -2,11 +2,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on [Job tracking Application](https://github.com/harshita9104/Career-Compass)
+- 🔭 I’m currently working as Technical Writer at @Atlan
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://harshita91.blogspot.com](https://harshita91.blogspot.com)
+- 📝 I regularly write articles on [https://medium.com/@harshita9104](https://medium.com/@harshita9104)
 
 - 💬 Ask me about **Web Development**
 
