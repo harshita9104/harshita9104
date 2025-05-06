@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on [Kubeedge](https://github.com/kubeedge/website)
+- 👯 I’m Open Source Contributor at [The Tor Project](https://gitlab.torproject.org/harshita_roonwal)
 
 - 📝 I regularly write articles on [https://medium.com/@harshita9104](https://medium.com/@harshita9104)
 
