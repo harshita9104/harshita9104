@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita9104" alt="harshita9104" /></a> </p>
 
-- 🔭 I’m have interned at [VapusData](https://github.com/harshita9104/vapus-ai)
+-  I have interned at [VapusData](https://github.com/harshita9104/vapus-ai)
 
-- 🌱 I’m currently learning **Devops**
+-  I’m currently learning **Devops**
 
-- 👯 I’m Open Source Contributor at [The Tor Project](https://gitlab.torproject.org/harshita_roonwal)
+-  I’m Open Source Contributor at [The Tor Project](https://gitlab.torproject.org/harshita_roonwal)
 
-- I have also worked as Technical Consulting Writer at **Atlan**
+-  I have also worked as Technical Consulting Writer at **Atlan**
 
 - 📝 I regularly write articles on [https://harshita9104.medium.com/](https://harshita9104.medium.com/)
 
-- 💬 Ask me about **Open Source, Golang based Microservices**
+- 💬 Ask me about **Open Source, Golang based Microservices, Python, System Design**
 
 - 📫 How to reach me **roonwal721972@gmail.com**
 
