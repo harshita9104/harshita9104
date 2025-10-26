@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita9104" alt="harshita9104" /></a> </p>
 
-- 🔭 I’m currently working at [VapusData](https://github.com/harshita9104/vapus-ai)
+- 🔭 I’m have interned at [VapusData](https://github.com/harshita9104/vapus-ai)
 
 - 🌱 I’m currently learning **Devops**
 
